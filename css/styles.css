@@ -135,7 +135,7 @@ img {
   color: #404bbf;
 }
 
-.header-link::after {
+.current::after {
   color: #404bbf;
   content: "";
   position: absolute;
@@ -915,4 +915,4 @@ img {
 .modal-btn-send:hover,
 .modal-btn-send:focus {
   background-color: #404bbf;
-} 
+} */
